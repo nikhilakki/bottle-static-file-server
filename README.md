@@ -15,7 +15,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 python app.py
 ```
-
+- Put files in the folder `files` in the repo root
+- Navigate to http://0.0.0.0:8080 or http://\<machine ip>:8080 *(to access over local/home network)* on web browser
 ##### Requirements -
 
 - Python 3.7+
