@@ -21,4 +21,5 @@ python app.py
 - Python 3.7+
 
 > Author - [Nikhil Akki](https://nikhilakki.in)
-> License - MIT
+
+> License - [MIT](https://github.com/nikhilakki/bottle-static-file-server/blob/main/LICENSE)
